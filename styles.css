@@ -903,5 +903,35 @@ width: 100%;
 padding: 0;
 margin: 0;
  }
+ .footer
+ {
+  height: 1200px;
+  width: 100%;
+  display: block;
+  float: none;
+  flex: none;
+  padding: 0%;
+  margin: 0%;
+ }
+ .footer .footer_text
+ {
+  height: 1000px;
+  width: 100%;
+  float: none;
+  display: block;
+  flex: none;
+  padding: 0%;
+  margin: 0%;
+ }
+ .footer .footer_text .a
+ {
+  height: 300px;
+  width: 100%;
+  float: none;
+  flex: none;
+  text-align: center;
+  padding: 0%;
+  margin: 0%;
+}
  }
  
